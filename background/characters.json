@@ -1,0 +1,37 @@
+[
+  {
+    "name": "萧清晏",
+    "identity": "大曜七公主,后为永安女帝",
+    "personality_tags": ["沉稳", "藏锋守拙", "兼具杀伐与悲悯"],
+    "core_drive": "重塑山河、终结乱局",
+    "relationships": {"谢临渊": "君臣制衡的知己", "先帝": "被猜忌的父皇"}
+  },
+  {
+    "name": "谢临渊",
+    "identity": "太傅嫡子,翰林院掌院,谢氏暗谍之主",
+    "personality_tags": ["谋深似海", "慧眼识君", "甘为盛世铺路"],
+    "core_drive": "得遇明君、安天下",
+    "relationships": {"萧清晏": "异时空对手与君臣", "谢氏": "宗族掌舵者"}
+  },
+  {
+    "name": "二皇子",
+    "identity": "皇室夺嫡势力之一",
+    "personality_tags": ["野心", "结党营私"],
+    "core_drive": "夺嫡",
+    "relationships": {"萧清晏": "构陷主谋"}
+  },
+  {
+    "name": "三皇子",
+    "identity": "京畿兵权在握的夺嫡势力",
+    "personality_tags": ["跋扈", "刚愎"],
+    "core_drive": "夺嫡",
+    "relationships": {"萧清晏": "视为威胁"}
+  },
+  {
+    "name": "沈长宁",
+    "identity": "寒门武将,北境抗蛮英雄",
+    "personality_tags": ["忠耿", "勇毅", "不善权谋"],
+    "core_drive": "护国守土",
+    "relationships": {"萧清晏": "北路主帅与君臣"}
+  }
+]
