@@ -1,0 +1,8 @@
+# 多 Agent 自动小说创作流水线 - Python 依赖
+# 核心依赖
+PyYAML>=6.0
+python-dotenv>=1.0.0
+
+# OpenAI 兼容 LLM 提供方(可换为 DeepSeek、智谱、通义、火山等)
+# 若只需 mock 模式，可注释掉下面这行
+openai>=1.0.0
